@@ -46,7 +46,6 @@ rescue LoadError
   end
 end
 
-
 task :default => :test
 
 require 'rake/rdoctask'
